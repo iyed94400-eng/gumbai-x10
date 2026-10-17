@@ -1,0 +1,11 @@
+{
+  "parent": "item/handheld",
+  "textures": { "layer0": "susanoo:item/gunbai" },
+  "display": {
+    "thirdperson_righthand": { "rotation": [0, -90, 55], "translation": [0, 7.5, 1.0], "scale": [1.95, 1.95, 1.95] },
+    "thirdperson_lefthand":  { "rotation": [0, 90, -55], "translation": [0, 7.5, 1.0], "scale": [1.95, 1.95, 1.95] },
+    "firstperson_righthand": { "rotation": [0, -90, 25], "translation": [1.13, 5.0, 1.5], "scale": [1.55, 1.55, 1.55] },
+    "firstperson_lefthand":  { "rotation": [0, 90, -25], "translation": [1.13, 5.0, 1.5], "scale": [1.55, 1.55, 1.55] },
+    "ground": { "rotation": [0, 0, 0], "translation": [0, 3, 0], "scale": [1.0, 1.0, 1.0] }
+  }
+}

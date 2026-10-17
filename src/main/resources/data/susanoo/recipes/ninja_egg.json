@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:egg" },
+    { "item": "minecraft:ink_sac" },
+    { "item": "minecraft:red_dye" }
+  ],
+  "result": { "item": "susanoo:ninja_egg" }
+}
